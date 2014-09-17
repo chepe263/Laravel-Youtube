@@ -8,6 +8,12 @@
             "email": "neil.crookes@fivebyfiveuk.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/google/google-api-php-client"
+        }
+    ],
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "4.*",
